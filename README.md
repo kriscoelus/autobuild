@@ -21,7 +21,6 @@ This repo will contain the framework. Right now it contains this README and an m
 ## Proven with
 
 - **Notes SaaS** — 10 tasks, all PASS, working auth + billing + deploy
-- **DakScan** — 14 tasks, Google Solar API + 3D roof viewer, near-perfect
 
 ## Status
 
